@@ -1,2 +1,3 @@
 # hello-world
-just started
+
+Just started learning GitHub and planning to keep my work in GitHub.
