@@ -1,3 +1,3 @@
 # hello-world
 
-Just started learning GitHub and planning keep my work store in GitHub.
+Just started learning GitHub and planning to keep my work in GitHub.
